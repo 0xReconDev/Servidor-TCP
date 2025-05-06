@@ -57,6 +57,9 @@ s.bind(("0.0.0.0", port))
 ```
 - Altere para interface que você deseja, ou crie uma entrada de dados para escolher essa interface sem ter que entrar no script o tempo todo.
 
+## 🙋 Autor
+0xReconDev
+Estudante de Pentest | GitHub: @0xReconDev
 - A senha de autênticação foi definida apenas para teste. Pode ser removida ou alterada.
 ```bash
 con.send("Digite a senha: ".encode())
